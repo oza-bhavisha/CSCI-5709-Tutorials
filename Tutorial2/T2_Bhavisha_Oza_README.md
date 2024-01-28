@@ -4,7 +4,7 @@ Welcome to the official repository for the CSCI 5709 course. This README provide
 
 Name: Bhavisha Oza \
 Banner ID: B00935827 \
-Email ID: bhavisha.oza@dal.ca \
+Email ID: bhavisha.oza@dal.ca 
 
 ## Group Project Repository
 
