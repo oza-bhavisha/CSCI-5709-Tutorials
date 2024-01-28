@@ -1,6 +1,7 @@
 # CSCI 5709 Advanced Topics in Web Development
 
-Welcome to the official repository for the CSCI 5709 course. This README provides links to my group project, tutorials, and assignments associated with the course.
+Welcome to the official repository for the CSCI 5709 course. \
+This README provides links to my group project, tutorials, and assignments associated with the course.
 
 Name: Bhavisha Oza \
 Banner ID: B00935827 \
