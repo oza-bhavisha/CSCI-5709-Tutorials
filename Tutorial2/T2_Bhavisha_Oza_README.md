@@ -3,9 +3,12 @@
 Welcome to the official repository for the CSCI 5709 course. \
 This README provides links to my group project, tutorials, and assignments associated with the course.
 
+Author: \
 Name: Bhavisha Oza \
 Banner ID: B00935827 \
-Email ID: bhavisha.oza@dal.ca 
+Email ID: bhavisha.oza@dal.ca \
+Date Created: 28 Jan 2024 \
+Last Modification Date: 28 Jan 2024
 
 ## Group Project Repository
 
@@ -28,6 +31,13 @@ https://git.cs.dal.ca/boza/csci-5709-tutorials/-/tree/main/Tutorial2?ref_type=he
 ### Tutorial 2 application link deployed on Netlify
 
 https://inquisitive-snickerdoodle-2de7bc.netlify.app/
+
+#### Built With
+
+This section provides a list of the key frameworks and libraries used to build this application.
+
+* [React](https://reactjs.org/) - A JavaScript library for building user interfaces. React was used to develop the component-based frontend of the application.
+
 
 ## Assignments Repository
 
