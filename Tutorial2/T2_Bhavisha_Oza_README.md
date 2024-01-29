@@ -3,7 +3,7 @@
 Welcome to the official repository for the CSCI 5709 course. \
 This README provides links to my group project, tutorials, and assignments associated with the course.
 
-Author: \
+*Author* \
 Name: Bhavisha Oza \
 Banner ID: B00935827 \
 Email ID: bhavisha.oza@dal.ca \
@@ -16,7 +16,7 @@ Last Modification Date: 28 Jan 2024
 
 ### Project Branches
 
-- [Bhavisha Branch](https://git.cs.dal.ca/asolanki/csci-5709_grp-10/-/tree/Bhavisha?ref_type=heads) - https://git.cs.dal.ca/asolanki/csci-5709_grp-10/-/tree/Bhavisha?ref_type=heads
+- **My Branch**: [Bhavisha Branch](https://git.cs.dal.ca/asolanki/csci-5709_grp-10/-/tree/Bhavisha?ref_type=heads) - https://git.cs.dal.ca/asolanki/csci-5709_grp-10/-/tree/Bhavisha?ref_type=heads
 
 ## Tutorials Repository
 
