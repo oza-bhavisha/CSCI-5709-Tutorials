@@ -24,15 +24,15 @@ All tutorials for the course can be found in the tutorials repository.
 
 - [CSCI 5709 Tutorials Repository](https://git.cs.dal.ca/boza/csci-5709-tutorials) - https://git.cs.dal.ca/boza/csci-5709-tutorials
 
-#### Tutorial 2 Individual Repository
+### Tutorial 2 Individual Repository
 
 https://git.cs.dal.ca/boza/csci-5709-tutorials/-/tree/main/Tutorial2?ref_type=heads
 
-#### Tutorial 2 application link deployed on Netlify
+### Tutorial 2 application link deployed on Netlify
 
 https://inquisitive-snickerdoodle-2de7bc.netlify.app/
 
-##### Built With
+#### Built With
 
 This section provides a list of the key frameworks and libraries used to build this application.
 
