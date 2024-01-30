@@ -30,7 +30,7 @@ https://git.cs.dal.ca/boza/csci-5709-tutorials/-/tree/main/Tutorial2?ref_type=he
 
 ### Tutorial 2 application link deployed on Netlify
 
-https://inquisitive-snickerdoodle-2de7bc.netlify.app/
+https://tutorial-2-bhavisha-oza-b00935827.netlify.app/
 
 #### Built With
 
