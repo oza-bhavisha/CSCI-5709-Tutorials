@@ -13,14 +13,16 @@ const Profile = () => {
   return (
     <Container maxWidth="sm">
       <Paper
-        elevation={3}
-        style={{
-          padding: "40px",
-          marginTop: "40px",
-          textAlign: "center",
+        elevation={6}
+        sx={{
+          p: 4,
+          mt: 8,
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
           borderRadius: "15px",
-          backgroundColor: "#f5f5f5",
-          boxShadow: "0 8px 16px 0 rgba(0,0,0,0.2)",
+          backgroundColor: "#fff",
+          boxShadow: "0 12px 24px 0 rgba(0,0,0,0.2)",
         }}
       >
         <Typography
@@ -28,7 +30,7 @@ const Profile = () => {
           gutterBottom
           style={{ fontWeight: "bold", color: "#3f51b5" }}
         >
-          Profile Page
+          Profile Details
         </Typography>
         <Box style={{ marginTop: "20px" }}>
           <Typography variant="h6" style={{ color: "#555" }}>
