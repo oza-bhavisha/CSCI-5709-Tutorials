@@ -52,11 +52,7 @@ The project uses the following API endpoint:
 
 ```
 
-- I've used
-
-Line 44-88
-
-- The stylig has been taken from my own submission of Assignment-1
+- xyz
 
 ## Additional Notes
 
