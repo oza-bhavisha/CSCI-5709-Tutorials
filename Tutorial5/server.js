@@ -1,14 +1,14 @@
 const express = require("express");
-const { v4: uuidv4 } = require("uuid"); // For generating unique IDs
+const { v4: uuidv4 } = require("uuid");
 
 const app = express();
 const port = 3000;
 
-app.use(express.json()); // Middleware to parse JSON bodies
+app.use(express.json());
 
-const users = []; // Initialize an empty array to store users
+const users = [];
 
-// GET /users - Fetch all users
+// Fetch all users
 app.get("/users", (req, res) => {
   res.json({
     message: "Users retrieved",
@@ -17,7 +17,7 @@ app.get("/users", (req, res) => {
   });
 });
 
-// POST /add - Add a new user
+// Add a new user
 app.post("/add", (req, res) => {
   const { email, firstName } = req.body;
   if (!email || !firstName) {
@@ -30,7 +30,7 @@ app.post("/add", (req, res) => {
   res.json({ message: "User added", success: true });
 });
 
-// PUT /update/:id - Update an existing user
+// Update an existing user
 app.put("/update/:id", (req, res) => {
   const { id } = req.params;
   const { email, firstName } = req.body;
@@ -43,7 +43,7 @@ app.put("/update/:id", (req, res) => {
   res.json({ message: "User updated", success: true });
 });
 
-// GET /user/:id - Fetch a single user by ID
+// Fetch a single user by ID
 app.get("/user/:id", (req, res) => {
   const { id } = req.params;
   const user = users.find((user) => user.id === id);
