@@ -18,7 +18,7 @@ Last Modification Date: 12 March 2024
 
 ## Deployment
 
-Project was deployed on Render.
+Project was deployed using Render.
 
 ### Deployment Steps
 
